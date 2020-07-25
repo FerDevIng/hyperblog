@@ -5,6 +5,8 @@ Luis Fernando tiene 34 años y nació en Bogotá- COlombia
 
 Experimento 1
 
+Experimento 2
+
 Master 1
 
 Hoy hablaremos de como quiere aprender a programar y analizar como DATA SCIENTIST
