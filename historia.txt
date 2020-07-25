@@ -8,5 +8,6 @@ Experimento 1
 Experimento 2
 
 Master 1
+Master 2
 
 Hoy hablaremos de como quiere aprender a programar y analizar como DATA SCIENTIST
