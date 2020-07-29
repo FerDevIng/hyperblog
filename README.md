@@ -1,2 +1,2 @@
 # hyperblog
-Un blog para la clase de Platzi
+Creado por el increible SIQMA Team
